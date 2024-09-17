@@ -225,7 +225,7 @@ const Login = () => {
                       },
                     }}
                     component="label"
-                  >
+                  >  
                     <>
                       <CameraAltIcon />
                       <VisuallyHiddenInput
